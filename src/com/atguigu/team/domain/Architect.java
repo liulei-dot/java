@@ -1,6 +1,12 @@
 package com.atguigu.team.domain;
 
-
+/**
+ * 
+ * @Description
+ * @author Liulei Email:304968711@qq.com
+ * @version
+ * @date 2020年9月5日下午1:17:22
+ */
 public class Architect extends Designer {
     private int stock;
 
